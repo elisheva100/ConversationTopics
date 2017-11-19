@@ -8,4 +8,4 @@ Please follow the instruction below:
 
 2.in order to run the web project, you must have node on your computer. if you do have, open CMD from project folder and run 'npm install'.then run 'ng serve'.
 
-3.ïn order to run the server you should have python, Anaconda and gensim.just download pyCharm and run the server.
+3.in order to run the server you should have python, Anaconda and gensim.just download pyCharm and run the server.
