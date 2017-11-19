@@ -1,6 +1,7 @@
 # ConversationTopics
 This project was created in the first-ever hackathon for ultra-Orthodox developers by a special team that included:
 ‫Elisheva heilbrun, Chavi bar zeev, David funberstein, Yehuda karlinsky and me (Yossi Shwartz)
+
 Please follow the instruction below: 
 
 1.download and extract 2 zip files (web and server).
